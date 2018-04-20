@@ -7,8 +7,8 @@
 %  Date: Feb. 2016
 %
 
-% Load encoded data
-% load('encoded_file_k64.mat');
+% Load encoded data matrix
+load('encoded_file_k64.mat');
 
 % suppress warning
 warning('off','all');
